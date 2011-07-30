@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepAware", "KeepAware\KeepAware.csproj", "{17D50C52-FB9B-4100-8140-C2AA1F75541D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KeepAwareSetup", "KeepAwareSetup\KeepAwareSetup.vdproj", "{41EEC850-A6D1-4E01-B491-43F6E54FB666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D50C52-FB9B-4100-8140-C2AA1F75541D}.Debug|x86.ActiveCfg = Debug|x86
+		{17D50C52-FB9B-4100-8140-C2AA1F75541D}.Debug|x86.Build.0 = Debug|x86
+		{17D50C52-FB9B-4100-8140-C2AA1F75541D}.Release|x86.ActiveCfg = Release|x86
+		{17D50C52-FB9B-4100-8140-C2AA1F75541D}.Release|x86.Build.0 = Release|x86
+		{41EEC850-A6D1-4E01-B491-43F6E54FB666}.Debug|x86.ActiveCfg = Debug
+		{41EEC850-A6D1-4E01-B491-43F6E54FB666}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
